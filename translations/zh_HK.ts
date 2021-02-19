@@ -7,7 +7,7 @@
         <location filename="../backend.cpp" line="24"/>
         <source>%1/%2 MB used</source>
         <comment>%1 - used space; %2 - total space</comment>
-        <translation%2 MB 入面用咗 %1 MB></translation>
+        <translation>%2 MB 入面用咗 %1 MB</translation>
     </message>
     <message>
         <location filename="../backend.cpp" line="29"/>
